@@ -7,7 +7,7 @@
 # ##################
 
 # Load the global constants
-SCRIPT_DIR = "~/workspace/ciml-scqpcr/articles/article1/public_scripts/scripts/"
+SCRIPT_DIR = "~/scripts/"
 CONSTANT_SOURCE = paste( SCRIPT_DIR, "loading_data_scqpcr.R", sep="")
 source( CONSTANT_SOURCE)
 
