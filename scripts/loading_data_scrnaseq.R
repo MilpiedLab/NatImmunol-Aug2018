@@ -1,5 +1,5 @@
 
-DATA_FOLDER = "/home/icervera/workspace/ciml-scqpcr/articles/article1/public_scripts/data/"
+DATA_FOLDER = "~/data/"
 #DATA_FOLDER = ".../datafolder/"
 physio_filename = "GSM3190075_humanBcells_matrixGeneCell.csv"
 FL_filename = "GSM3190076_humanFL5_matrixGeneCell.csv"
