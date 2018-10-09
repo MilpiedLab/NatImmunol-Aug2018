@@ -16,4 +16,7 @@ You can also download them directly:
 
 The R scripts are ordered by Figures and by type of data (sc-qPCR and scRNA-seq). Most of the scripts can be run independently.
 
-Please email questions / problems to cervera [at] ciml.univ-mrs.fr or milpied [at] ciml.univ-mrs.fr
+Please use the [Issues Tracker](https://github.com/MilpiedLab/NatImmunol-Aug2018/issues) for questions/issues.
+
+cervera [at] ciml.univ-mrs.fr 
+milpied [at] ciml.univ-mrs.fr
