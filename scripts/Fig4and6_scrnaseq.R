@@ -8,7 +8,7 @@
 # ##################
 
 # Load the script Fig3and5_scrnaseq.R
-SCRIPT_DIR = "~/workspace/ciml-scqpcr/articles/article1/public_scripts/scripts/"
+SCRIPT_DIR = "~/scripts/"
 SCRIPT_SOURCE = paste( SCRIPT_DIR, "Fig3and5_scrnaseq.R", sep="")
 source( SCRIPT_SOURCE)
 
