@@ -3,7 +3,7 @@
 # ###############################################
 
 
-DATA_FOLDER = "/home/icervera/workspace/ciml-scqpcr/articles/article1/public_scripts/data/"
+DATA_FOLDER = "~/data/"
 
 raw_data_filename = "41590_2018_181_MOESM3_ESM.csv"
 
